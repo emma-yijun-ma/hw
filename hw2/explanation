@@ -1,0 +1,1 @@
+since anagrams have to contain the same characters, sorting the strings guarantees the same order. if the strings == when sorted, then they are anagrams
