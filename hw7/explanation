@@ -1,0 +1,1 @@
+separate starting and ending times into two arrays, then use two-pointer method to make a new room when the next meeting starts before the previous ends
