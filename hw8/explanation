@@ -1,0 +1,1 @@
+use counting sort to count the number of each char, allow an even number of each plus one if there is an odd
