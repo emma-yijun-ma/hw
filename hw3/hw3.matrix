@@ -1,0 +1,1 @@
+The matrix multiplication psudocode seems to have a cubic time complexity, since it has three nested for loops

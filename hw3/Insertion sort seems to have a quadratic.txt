@@ -1,0 +1,1 @@
+Insertion sort seems to have a quadratic time complexity, since each element is compared and swapped.
